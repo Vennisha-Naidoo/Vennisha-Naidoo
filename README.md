@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Vennisha-Naidoo
+- 👋 Hi, I’m Vennisha Naidoo
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning Java and C#
-- 💞️ I'm studying BSc IT, at Richfield Graduate Institute of Technology
-- 📫 How to reach me theavn31@gmail.com
+- 💞️ Bachelor of Science in Information Technology, at Richfield Graduate Institute of Technology
+- 🌱 I’m currently learning ReactJS
+- 📫 How to reach me vennisha31@gmail.com
 
 <!---
 Vennisha-Naidoo/Vennisha-Naidoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
