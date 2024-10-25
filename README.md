@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Vennisha Naidoo
-- 👀 I’m interested in software development
-- 💞️ Bachelor of Science in Information Technology, at Richfield Graduate Institute of Technology
+- 👋 Hi, my name is Vennisha Naidoo
+- 👀 I’m a Software Developer
+- 💞️ Studied Bachelor of Science in Information Technology, at Richfield Graduate Institute of Technology
 - 🌱 I’m currently learning ReactJS
 - 📫 How to reach me vennisha31@gmail.com
 
